@@ -18,10 +18,10 @@ Building the blinky example requires [Yosys](https://github.com/YosysHQ/yosys), 
 
 | Pin | Signal | Description |
 | ----| ------ | ----------- |
-| 1 | PMOD\A1 | GPIO |
-| 2 | PMOD\A2 | GPIO |
-| 3 | PMOD\A3 | GPIO |
-| 4 | PMOD\A4 | GPIO |
+| 1 | PMOD\_A1 | GPIO |
+| 2 | PMOD\_A2 | GPIO |
+| 3 | PMOD\_A3 | GPIO |
+| 4 | PMOD\_A4 | GPIO |
 | 5 | GND | Ground |
 | 6 | 3V3 | Power |
 
