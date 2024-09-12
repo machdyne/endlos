@@ -2,6 +2,8 @@
 
 Endlos is a 1-layer FPGA computer designed by Lone Dynamics Corporation.
 
+![Endlos Computer](https://github.com/machdyne/endlos/blob/5ab7c421435a9b4e87dfb7068ffc22f6d31f5fcc/endlos.png)
+
 This repo contains schematics, PCB layouts, pinouts, example gateware and documentation.
 
 Find more information on the [Endlos product page](https://machdyne.com/product/endlos-computer/).
