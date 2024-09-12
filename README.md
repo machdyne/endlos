@@ -55,7 +55,7 @@ Note #1: All of the functionality hasn't been tested yet, only configuration fro
 
 Note #2: There should probably be a 10K pull-up on RAM\_SS, but configuration appears to work without it.
 
-Note #3: Kapton tape is recommended under front of the USB-A connector.
+Note #3: Kapton tape is recommended under front of the USB-B connector.
 
 ## License
 
