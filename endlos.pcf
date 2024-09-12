@@ -1,0 +1,13 @@
+# Endlos V0
+# ---------
+
+# RGB LED
+set_io LED_R	40
+set_io LED_G	41
+set_io LED_B	39
+
+# PMOD_A
+set_io PMOD_A1		2
+set_io PMOD_A2		3
+set_io PMOD_A3		4
+set_io PMOD_A4		6
